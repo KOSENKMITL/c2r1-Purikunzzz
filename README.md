@@ -106,3 +106,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+Name = Purikun Srinor
+Class/Major = C2R1, Computer Engineering
+Interests/Hobbies = I'm interested in AI and Data Science My hobby is playing game.
